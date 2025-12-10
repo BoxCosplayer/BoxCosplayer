@@ -7,7 +7,7 @@ I currently work on quantum optimisation algorithms for A*STAR's Institute of Hi
 
 The project on my profile cover all of my personal endeavours, typically utilities I'd rather build myself than download from other sources!
 
-This includes (but is not limited to!):
+This includes (but is not limited to):
 
 go-search-engine - Born out of a frustration of searching for my links through a sea of bookmarks, I created a shortcut engine that transforms simple keywords into redirects to your favourite links, so you only need to remember _where_ to go, not just where the bookmark is!
 
