@@ -9,11 +9,11 @@ The projects on my profile cover all of my personal endeavours, typically utilit
 
 This includes (but is not limited to):
 
-go-search-engine - Born out of a frustration of searching for my links through a sea of bookmarks, I created a shortcut engine that transforms simple keywords into redirects to your favourite links, so you only need to remember _where_ to go, not just where the bookmark is!
+go-search-engine - Born out of a frustration of searching for my links through a sea of bookmarks, I created a shortcut engine that transforms simple keywords into redirects.
 
-subject-recommender - This utility software provides a way for students to decide _what_ to study rather than when and for how long. It does this by intaking and analysing your grade history and provides outputs catered to you!
+subject-recommender - This utility software provides a way for students to decide _what_ to study rather than when and for how long.
 
-goatpad [WIP] - A notepad alternative, with IDE elements planned. A text editor built using go, from scratch.
+goatpad [WIP] - A vim-like text editor that lives in the terminal, with IDE elements built using go from scratch.
 
 Powered-Learning [WIP] - A front-end of sorts for my subject-recommender, wrapping it with a lot of very useful features! I plan to deploy this website publicly once it is complete.
 
