@@ -13,7 +13,7 @@ More info at https://portfolio-website-seven-iota-45.vercel.app ! (Will move to 
 
 ## About me
 
-- I am currently studying BSc Cyber Security at the University of Warwick, due to gradute in 2027
-- I am currently in Singapore thanks to the Singapore International Pre-Graduate Award (SIPGA)!
+- I am studying BSc Cyber Security at the University of Warwick, due to gradute in 2027
+- Currently abroad in Singapore thanks to the Singapore International Pre-Graduate Award (SIPGA)!
 - I read ~ one book/month typically until I run out of books 😅
 - Avid Photographer
