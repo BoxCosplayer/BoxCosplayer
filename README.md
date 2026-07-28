@@ -9,7 +9,7 @@ I currently work on quantum optimisation algorithms for A*STAR's IHPC, and in my
 - goatpad / go-language-server - A vim-like text editor that lives in the terminal, developed alongside a language server for go, built using c++. 
 - subject-recommender - This utility software provides a way for students to decide _what_ to study rather than when and for how long.
 - Powered-Learning - A frontend for my subject-recommender.
-- More info at https://portfolio-website-seven-iota-45.vercel.app ! (Will move to self-hosting soon...)
+- More info at sandhuhome.uk !
 
 ## About me
 
